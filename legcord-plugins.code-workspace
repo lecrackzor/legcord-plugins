@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "legcord-plugins",
+            "path": "."
+        },
+        {
+            "name": "Legcord",
+            "path": "../Legcord"
+        }
+    ],
+    "settings": {}
+}
